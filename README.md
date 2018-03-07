@@ -1,3 +1,3 @@
 # borkabrak.github.io
 
-Testing Github Pages
+I intend to use this as a project showcase for selected apps.
