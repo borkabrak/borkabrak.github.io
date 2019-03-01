@@ -1,2 +1,3 @@
 # borkabrak.github.io
-Trying out github-pages for a personal website
+
+I intend to use this as a project showcase for selected apps.
